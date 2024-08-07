@@ -1,12 +1,20 @@
-# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+
+
+
+
+# Shoppy - React Admin Dashboard
 ![Shoppy](https://i.ibb.co/W6g39w3/image.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-
 ## Introduction
-This is a code repository for the corresponding video tutorial.
+Shoppy is a feature-rich React Admin Dashboard designed to manage and visualize data effectively. The project includes advanced functionalities such as theming, dynamic tables, interactive charts, a calendar, a Kanban board, and more.
 
-If you want to get a finished, highly customizable Material UI version of a similar dashboard, check out [Flexy React Material Dashboard](https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=257&campaign=Flexy).
+## Features
+- **Theming**: Customize your dashboard with multiple themes.
+- **Dynamic Tables**: Manage and display data efficiently in tabular form.
+- **Interactive Charts**: Visualize data through various chart types.
+- **Calendar**: Organize and keep track of events.
+- **Kanban Board**: Efficient task and workflow management.
+- **Responsive Design**: Fully responsive layout suitable for different devices.
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+
+

@@ -20,7 +20,7 @@ const App = () => {
       setCurrentMode(currentThemeMode);
     }
   }, []);
-
+  
   return (
     <div className={currentMode === 'Dark' ? 'dark' : ''}>
       <BrowserRouter>
